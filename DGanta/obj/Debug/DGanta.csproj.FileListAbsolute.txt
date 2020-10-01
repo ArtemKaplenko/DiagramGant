@@ -1,0 +1,40 @@
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\bin\Debug\DGanta.exe.config
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\bin\Debug\DGanta.exe
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\bin\Debug\DGanta.pdb
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\obj\Debug\DGanta.csprojResolveAssemblyReference.cache
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\obj\Debug\DGanta.Form1.resources
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\obj\Debug\DGanta.Properties.Resources.resources
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\obj\Debug\DGanta.csproj.GenerateResource.Cache
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\obj\Debug\DGanta.exe
+c:\users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\obj\Debug\DGanta.pdb
+C:\Users\09408\documents\visual studio 2015\Projects\DGanta\DGanta\obj\Debug\DGanta.AddTask.resources
+C:\Users\Артем\Desktop\DGanta\DGanta\bin\Debug\DGanta.exe.config
+C:\Users\Артем\Desktop\DGanta\DGanta\obj\Debug\DGanta.exe
+C:\Users\Артем\Desktop\DGanta\DGanta\obj\Debug\DGanta.pdb
+C:\Users\Артем\Desktop\DGanta\DGanta\bin\Debug\DGanta.exe
+C:\Users\Артем\Desktop\DGanta\DGanta\bin\Debug\DGanta.pdb
+C:\Users\Артем\Desktop\DGanta\DGanta\obj\Debug\DGanta.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\DGanta\DGanta\obj\Debug\DGanta.AddTask.resources
+C:\Users\Артем\Desktop\DGanta\DGanta\obj\Debug\DGanta.Form1.resources
+C:\Users\Артем\Desktop\DGanta\DGanta\obj\Debug\DGanta.Properties.Resources.resources
+C:\Users\Артем\Desktop\DGanta\DGanta\obj\Debug\DGanta.csproj.GenerateResource.Cache
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\bin\Debug\DGanta.exe.config
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.exe
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.pdb
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\bin\Debug\DGanta.exe
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\bin\Debug\DGanta.pdb
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.csprojResolveAssemblyReference.cache
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.AddTask.resources
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.Form1.resources
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.Properties.Resources.resources
+C:\Users\09408\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.csproj.GenerateResource.Cache
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\bin\Debug\DGanta.exe.config
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.exe
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.pdb
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\bin\Debug\DGanta.exe
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\bin\Debug\DGanta.pdb
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.AddTask.resources
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.Form1.resources
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.Properties.Resources.resources
+C:\Users\Артем\Desktop\DGanta\DGanta\DGanta\obj\Debug\DGanta.csproj.GenerateResource.Cache
